@@ -1,0 +1,11 @@
+print(23 > 2)
+print(1 == 1)
+print(2 > 23)
+
+print(bool(False))
+print(bool(None))
+print(bool(0))
+print(bool(""))
+print(bool(()))
+print(bool([]))
+print(bool({}))
